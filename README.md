@@ -36,3 +36,16 @@ I'm Tharun V.M, a Computer Science and Engineering student interested in program
 - Improve responsive design
 - Add backend functionality
 - Deploy the website online
+
+- # Personal Portfolio
+
+Welcome to my personal portfolio!
+
+This website showcases my skills, education, projects and achievements.
+
+🚀 **Live Website:** [Visit My Portfolio](https://personal-portfolio-ik9u.vercel.app/index%202%20.html)
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
